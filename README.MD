@@ -2,7 +2,7 @@
 
 
 ![Python](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)
-[![Actions Status](https://github.com/andresliszt/warehouse-allocation/workflows/Testing/badge.svg)](https://github.com/andresliszt/warehouse-allocation/actions)
+[![Actions Status](https://github.com/andresliszt/warehouse_allocation/workflows/Testing/badge.svg)](https://github.com/andresliszt/warehouse_allocation/actions)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Solver for the warehouse allocation presented in the paper *Two-stage storage assignment to minimize travel time and congestion for warehouse order picking operations* by authors Gyu Lee and Sung Hoon Chung that can found [here](https://www.researchgate.net/publication/336713740_Two-stage_Storage_Assignment_to_Minimize_Travel_Time_and_Congestion_for_Warehouse_Order_Picking_Operations)
